@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Created-By: Me
+Main-Class: SampleProgram
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+"manifest.txt" [New File]                                                                                                                                 0,0-1         All
+
